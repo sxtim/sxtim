@@ -46,6 +46,6 @@
 
 ---
 
-## 📨 Пишите <a href="https://t.me/timashov_s" target="_blank" style="margin-left:6px; text-decoration:none;">@timashov_s</a> — обсудим ваш проект!</p>
+## 📨 Пишите <a href="https://t.me/sergey_timash" target="_blank" style="margin-left:6px; text-decoration:none;">@sergey</a> — обсудим ваш проект!</p>
   
   
